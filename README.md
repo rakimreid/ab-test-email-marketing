@@ -1,4 +1,4 @@
-# AB Test using T-Test for Email Marketing
+# Thinkful Project: AB Test using T-Test for Email Marketing
 
 Project Requirement: 
 
